@@ -8,3 +8,9 @@ import (
 func PrintTresLetras(){
 	fmt.Println("A B C")
 }
+
+
+//PrintTresUna esta funcion sirve para imprimir 1 letra
+func PrintTresUna(){
+	fmt.Println("Z")
+}
