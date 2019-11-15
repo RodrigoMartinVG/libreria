@@ -1,4 +1,4 @@
-package packagelibreria
+package libreria
 
 import (
 	"fmt"
